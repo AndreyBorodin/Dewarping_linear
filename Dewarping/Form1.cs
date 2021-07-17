@@ -16,7 +16,7 @@ namespace Dewarping
         Bitmap picture2, picture1; 
         
         double shag;
-        int Hf, Wf, He, We, counter;
+        int Hf, Wf, He, We;
         double R, Cfx, Cfy;
         const double PI = 3.141592653589793;
 
